@@ -1,0 +1,294 @@
+*{
+    padding: 0;
+    margin: 0;
+  }
+  body{
+     background-color: #efb64d;
+  }
+  .mother{
+    position: absolute;
+    background-color: #efb64d;
+    width: 120%;
+    height:225%;
+  }
+  .menu{
+    position:absolute;
+    width: 23px;
+    margin-top: 18px;
+    margin-left: 10px;
+  }
+  .account{
+    position:absolute;
+    width: 22px;
+    margin-top: 14.5px;
+    margin-left:110px;
+  }
+  .cart{
+    position: absolute;
+    width: 32px;
+    margin-top: 15px;
+    margin-left:220px;
+  }
+  .search{
+    position: absolute;
+    background-color:#dd9818;
+    color: white;
+    font-family: "Archivo Black";
+    width: 230px;
+    height: 23px;
+    border-radius: 15px;
+    margin-top: 13px;
+    margin-left:500px;
+    font-size: 15px;
+    padding-left:10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+  }
+  .container-red{
+    position: absolute;
+    background-color: #c33333;
+    width: 400px;
+    height: 380px;
+    margin-top: -175px;
+    margin-left:330px;
+    border-radius: 50px;
+  }
+  .kyllesfried{
+    position: absolute;
+    font-family: "Archivo Black";
+    color: #bb2f2f;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.442);
+    background-color: #ffce0f;
+    font-size:50px;
+    padding: 15px;
+    margin-left: 20px;
+    margin-top:100px;
+    border-radius: 40px;
+  }
+  .price{
+    position:absolute;
+    background-color: #c53132;
+    font-size: 50px;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    color: #f6fa00;
+    rotate: 8deg;
+    font-family: "Rubik Moonrocks";
+    margin-top: 300px;
+    margin-left: 20px;
+    padding-bottom: 9px;
+  }
+  .pic1{
+    position: absolute;
+    font-family: "Archivo Black";
+    width: 270px;
+    margin-top:-24px;
+    margin-left: 235px;
+  }
+  .group23{
+    position:absolute;
+    width: 365px;
+    margin-top: 45px;
+    margin-left: 15px;
+  }
+  .addcart{
+    width: 40px;
+    margin-top: 330px;
+    margin-left: 25px;
+  }
+  .container-red2{
+    position: absolute;
+    background-color: #c33333;
+    width: 370px;
+    height: 370px;
+    margin-top:500px;
+    margin-left: 20px;
+    border-radius: 30px;
+  }
+  .lechonmanok{
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 15px;
+  }
+  .addcart2{
+    position: absolute;
+    width: 40px;
+    margin-top: 320px;
+    margin-left: -15px;
+  }
+  .nativemanok{
+    position: absolute;
+    font-family: "Archivo Black";
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.442);
+    color: #bb2f2f;
+    background-color: #ffce0f;
+    font-size:50px;
+    padding: 15px;
+    margin-left: 500px;
+    margin-top: 540px;
+    border-radius: 40px;
+  }
+  .pic2{
+    position: absolute;
+    font-family: "Archivo Black";
+    width: 170px;
+    margin-top:678px;
+    margin-left: 557px;
+  }
+  .price2{
+    position:absolute;
+    background-color: #c53132;
+    font-size: 50px;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    color: #f6fa00;
+    rotate: 8deg;
+    font-family: "Rubik Moonrocks";
+    margin-top: 750px;
+    margin-left: 500px;
+    padding-bottom: 9px;
+  }
+  .crispydrums{
+    position: absolute;
+    font-family: "Archivo Black";
+    color: #bb2f2f;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.442);
+    background-color: #ffce0f;
+    font-size:50px;
+    padding: 15px;
+    margin-left: 20px;
+    bottom: 600px;
+    border-radius: 40px;
+  }
+  .group{
+    position:absolute;
+    width:330px;
+    margin-top: 45px;
+    margin-left: 15px;
+  }
+  .pic3{
+    position: absolute;
+    font-family: "Archivo Black";
+    width: 170px;
+    bottom: 445px;
+    margin-left:63px;
+  }
+  .price3{
+    position:absolute;
+    background-color: #c53132;
+    font-size: 50px;
+    width: 170px;
+    height: 50px;
+    text-align: center;
+    color: #f6fa00;
+    rotate: 8deg;
+    font-family: "Rubik Moonrocks";
+    bottom: 510px;
+    margin-left: 20px;
+    padding-bottom: 9px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .drums{
+    position: absolute;
+    background-color: #c33333;
+    width: 375px;
+    height: 370px;
+    bottom: 435px;
+    margin-left:350px;
+    border-radius: 40px;
+  }
+  .addcart3{
+    width: 40px;
+    margin-top: 330px;
+    margin-left: 25px;
+  }
+  .container-red4{
+    position: absolute;
+    background-color: #c33333;
+    width: 320px;
+    height: 285px;
+    margin-top: 1320px;
+    margin-left: 20px;
+    border-radius: 40px;
+  }
+  .chilicrispy{
+    position: absolute;
+    width: 300px;
+    margin-left: 20px;
+   bottom:30px;
+  }
+  .addcart4{
+    position: absolute;
+    width: 40px;
+    bottom: 15px;
+    margin-left:250px;
+  }
+  .chilimanok{
+    position: absolute;
+    text-align: center;
+    font-family: "Archivo Black";
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.442);
+    color: #bb2f2f;
+    background-color: #ffce0f;
+    font-size:50px;
+    padding: 15px;
+    margin-left: 470px;
+    margin-top: 1330px;
+    border-radius: 40px;
+  }
+  .pic4{
+    position: absolute;
+    font-family: "Archivo Black";
+    width: 310px;
+    margin-top:1340px;
+    margin-left: 40px;
+  }
+  .price4{
+    position:absolute;
+    background-color: #c53132;
+    font-size: 50px;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    color: #f6fa00;
+    rotate: 8deg;
+    font-family: "Rubik Moonrocks";
+    margin-top: 1530px;
+    margin-left: 470px;
+    padding-bottom: 9px;
+  }
+  
+  .footer{
+    position: absolute;
+    width: 100px;
+    background-color: #efb64d;
+    bottom:-30px;
+    width: 765px;
+  }
+  .chicken3{
+    position: absolute;
+    width: 100px;
+    bottom: -100px;
+    rotate: -11deg;
+  }
+  .facebook{
+    position: absolute;
+    width: 60px;
+    bottom: -75px;
+    margin-left:310px;
+  }
+  .twitter{
+    position: absolute;
+    width: 60px;
+    bottom: -75px;
+    margin-left:480px;
+  }
+  .instagram{
+    position: absolute;
+    width: 60px;
+    bottom: -75px;
+    margin-left:395px;
+  }
